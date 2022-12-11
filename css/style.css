@@ -3,4 +3,7 @@ body {
     font-family: 'Be Vietnam Pro', sans-serif;
     min-height: 100vh;
     max-height: 1440px;
-    margin: auto;}
+    margin: auto;
+    background-color: green ;}
+video{display: flex; flex-direction: column;margin-top: -2%;}
+p{font-size:large;color: wheat;}
